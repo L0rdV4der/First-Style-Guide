@@ -4,7 +4,9 @@
 <li>yellow #fcfb7d</li> 
 <li>crimson #dc143c</li>
 <li>text white #fff</li></P>
-<p>font families Will be from google fonts, fonts will be Merienda and oswald.</P>
+<p><ul>font families<ul>
+<li>font-family: 'Merienda', cursive;</li>
+<li>@import url(https://fonts.googleapis.com/css?family=Merienda);</li>.</P>
 <p>Header = Merienda 28px Bold #fcfb7d</p>
 <p>h1 = Merienda 24px Bold #fcfb7d</p>
 <p>h2 = Merienda 22px Bold #fcfb7d</p>
