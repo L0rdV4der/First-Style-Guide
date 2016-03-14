@@ -6,8 +6,11 @@
 <li>text white #fff</li></P>
 <p><ul>font families<ul>
 <li>font-family: 'Merienda', cursive;</li>
-<li>@import url(https://fonts.googleapis.com/css?family=Merienda);</li>.</P>
-<p>Header = Merienda 28px Bold #fcfb7d</p>
+<li>@import url(https://fonts.googleapis.com/css?family=Merienda);</li>
+<li>font-family: 'Oswald', sans-serif;</li>
+<li>@import url(https://fonts.googleapis.com/css?family=Oswald);</li></P>
+<p><ul>Header = Merienda 28px Bold</ul>
+<li>yellow #fcfb7d</li></p>
 <p>h1 = Merienda 24px Bold #fcfb7d</p>
 <p>h2 = Merienda 22px Bold #fcfb7d</p>
 <p>h3 = Merienda 20px Bold #fcfb7d</p>
