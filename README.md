@@ -56,8 +56,10 @@
   </li>  
 </ul>
 <ul>
+  <li>
   <li>button = oswald 16px</li>
   <li> white #ffffff</li>
+  </li>
 </ul>
 <ul>
   <li>p = Merienda 18 px Bold</li>
