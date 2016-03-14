@@ -60,7 +60,7 @@
   <li> white #ffffff</li>
 </ul>
 <ul>
-  <li>p = Merienda 18 px Bold 
+  <li>p = Merienda 18 px Bold</li>
   <li>Yellow #fcfb7d</li>
 </ul>
 
