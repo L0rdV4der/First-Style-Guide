@@ -1,14 +1,14 @@
 # First-Style-Guide
 <p>Attempt to make a style guide worth using. This is a work in progress.</P>
-##<ul>Color Pallete
+###<ul>Color Pallete
 <li>yellow #fcfb7d</li> 
 <li>crimson #dc143c</li>
 <li>text white #fff</li></ul>
-<p><ul>font families
+###<ul>font families
 <li>font-family: 'Merienda', cursive;</li>
 <li>@import url(https://fonts.googleapis.com/css?family=Merienda);</li>
 <li>font-family: 'Oswald', sans-serif;</li>
-<li>@import url(https://fonts.googleapis.com/css?family=Oswald);</li></ul></P>
+<li>@import url(https://fonts.googleapis.com/css?family=Oswald);</li></ul>
 <p><ul>Header = Merienda 28px Bold<ul>
 <li>yellow #fcfb7d</li></p>
 <p>h1 = Merienda 24px Bold #fcfb7d</p>
