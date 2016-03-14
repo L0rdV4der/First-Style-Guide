@@ -1,9 +1,9 @@
 # First-Style-Guide
 <p>Attempt to make a style guide worth using. This is a work in progress.</P>
-<p>Color Pallete 
-yellow #fcfb7d 
-crimson #dc143c
-text white #fff.</P>
+<p><ul>Color Pallete<ul>
+<li>yellow #fcfb7d</li> 
+<li>crimson #dc143c</li>
+<li>text white #fff</li></P>
 <p>font families Will be from google fonts, fonts will be Merienda and oswald.</P>
 <p>Header = Merienda 28px Bold #fcfb7d</p>
 <p>h1 = Merienda 24px Bold #fcfb7d</p>
