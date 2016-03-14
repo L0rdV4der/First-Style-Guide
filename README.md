@@ -13,17 +13,30 @@
 
 ###Html Elements
 <ul>
-<li>h1 = Merienda 24px Bold #fcfb7d</li>
-<li>h2 = Merienda 22px Bold #fcfb7d</li>
+  <li>h1 = Merienda 24px Bold 
+    <ul>
+      <li>#fcfb7d</li>
+    </ul>
+  </li>
+<ul>
+  <li>h2 = Merienda 22px Bold 
+    <ul>
+      <li>#fcfb7d</li>
+    </ul>
+  </li>
+</ul>
 <li>h3 = Merienda 20px Bold #fcfb7d</li>
+<p>nav = oswald 16px #fff</p>
+<p>links = oswald 16x, gold, purple #660099 when hovered, puerple #660099 and underlined when clicked.</p>
+<p>button = oswald 16px #fff</p>
 <li>p = Merienda 18 px Bold #fcfb7d</li>
+<p>footer = oswald 16px #fff</p>
 </ul>
   
  
 
-<p>menu = oswald 16px #fff</p>
-<p>footer = oswald 16px #fff</p>
-<p>button = oswald 16px #fff</p>
-<p>ul = numbered, oswald 16px #fff</p>
-<p>links = oswald 16x, gold, purple #660099 when hovered, puerple #660099 and underlined when clicked.</p>
-<p>nav = oswald 16px #fff</p>
+
+
+
+
+
