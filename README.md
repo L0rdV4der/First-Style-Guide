@@ -15,20 +15,33 @@
 <ul>
   <li>h1 = Merienda 24px Bold 
     <ul>
-      <li>#fcfb7d</li>
+      <li>Yellow #fcfb7d</li>
     </ul>
   </li>
 </ul>
 <ul>
   <li>h2 = Merienda 22px Bold 
     <ul>
-      <li>#fcfb7d</li>
+      <li>Yellow #fcfb7d</li>
     </ul>
   </li>
 </ul>
-<li>h3 = Merienda 20px Bold #fcfb7d</li>
-<p>nav = oswald 16px #fff</p>
-<p>links = oswald 16x, gold, purple #660099 when hovered, puerple #660099 and underlined when clicked.</p>
+
+<li>h3 = Merienda 20px Bold 
+<ul>
+<li>Yellow #fcfb7d</li>
+<li>nav = oswald 16px 
+<ul>
+<li>Yellow #fcfb7d</li>
+<ul>
+<li>links = oswald 16x 
+<ul>
+<li>Yellow #fcfb7d
+<ul>purple #660099 when hovered</ul>
+<ul>purple #660099 and underlined when clicked.</ul>
+</li>
+</ul>
+
 <p>button = oswald 16px #fff</p>
 <li>p = Merienda 18 px Bold #fcfb7d</li>
 <p>footer = oswald 16px #fff</p>
