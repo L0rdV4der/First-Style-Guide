@@ -9,7 +9,7 @@
 <li>@import url(https://fonts.googleapis.com/css?family=Merienda);</li>
 <li>font-family: 'Oswald', sans-serif;</li>
 <li>@import url(https://fonts.googleapis.com/css?family=Oswald);</li></P>
-<p><ul>Header = Merienda 28px Bold</ul>
+<p><ul>Header = Merienda 28px Bold<ul>
 <li>yellow #fcfb7d</li></p>
 <p>h1 = Merienda 24px Bold #fcfb7d</p>
 <p>h2 = Merienda 22px Bold #fcfb7d</p>
