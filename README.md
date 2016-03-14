@@ -3,7 +3,7 @@
 ##<ul>Color Pallete
 <li>yellow #fcfb7d</li> 
 <li>crimson #dc143c</li>
-<li>text white #fff</li></ul></P>
+<li>text white #fff</li></ul>
 <p><ul>font families
 <li>font-family: 'Merienda', cursive;</li>
 <li>@import url(https://fonts.googleapis.com/css?family=Merienda);</li>
