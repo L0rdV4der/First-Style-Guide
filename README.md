@@ -63,8 +63,9 @@
   </ul>
 </ul>
 <ul>
-  <li>p = Merienda 18 px Bold
+  <li>p 
   <ul>
+  <li>Merienda 18 px Bold</li>
   <li>Yellow #fcfb7d</li>
 </ul>
 </ul>
