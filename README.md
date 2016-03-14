@@ -47,8 +47,8 @@
 <ul>
   <li>links 
     <ul>
-      <li>oswald 16x
-      <li>Yellow #fcfb7d
+      <li>oswald 16x</li>
+      <li>Yellow #fcfb7d</li>
         <li>purple #660099 when hovered</li>
         <li>purple #660099 and underlined when clicked.</li>
       </li>
@@ -56,14 +56,17 @@
   </li>  
 </ul>
 <ul>
-  <li>button = oswald 16px #fff</li>
+  <li>button = oswald 16px</li>
+  <li> white #ffffff</li>
 </ul>
 <ul>
-  <li>p = Merienda 18 px Bold #fcfb7d</li>
+  <li>p = Merienda 18 px Bold 
+  <li>Yellow #fcfb7d</li>
 </ul>
 
 <ul>
-  <li>footer = oswald 16px #fff</li>
+  <li>footer = oswald 16px 
+  <li> White #ffffff</li>
 </ul>
   
  
