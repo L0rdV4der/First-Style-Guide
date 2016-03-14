@@ -56,18 +56,21 @@
   </li>  
 </ul>
 <ul>
-  <li>button = oswald 16px
+  <li>button 
   <ul>
-  <li> white #ffffff</li>
+  <li>oswald 16px</li>
+  <li>White #ffffff</li>
   </ul>
 </ul>
 <ul>
-  <li>p = Merienda 18 px Bold</li>
+  <li>p = Merienda 18 px Bold
+  <ul>
   <li>Yellow #fcfb7d</li>
 </ul>
-
+</ul>
 <ul>
-  <li>footer = oswald 16px 
+  <li>footer 
+  <li>oswald 16px</li>
   <li> White #ffffff</li>
 </ul>
   
