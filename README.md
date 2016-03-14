@@ -18,6 +18,7 @@
       <li>#fcfb7d</li>
     </ul>
   </li>
+</ul>
 <ul>
   <li>h2 = Merienda 22px Bold 
     <ul>
