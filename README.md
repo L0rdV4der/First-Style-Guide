@@ -63,7 +63,7 @@
   </ul>
 </ul>
 <ul>
-  <li>p 
+  <li>p tags
   <ul>
   <li>Merienda 18 px Bold</li>
   <li>Yellow #fcfb7d</li>
@@ -71,8 +71,10 @@
 </ul>
 <ul>
   <li>footer 
+  <ul>
   <li>oswald 16px</li>
   <li> White #ffffff</li>
+  </ul>
 </ul>
   
  
