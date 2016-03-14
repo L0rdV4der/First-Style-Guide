@@ -12,14 +12,12 @@
 <li>@import url(https://fonts.googleapis.com/css?family=Oswald);</li></ul>
 
 ###Html Elements
-<ul>Header = Merienda 28px Bold
-  <li>yellow #fcfb7d
-    <p>h1 = Merienda 24px Bold #fcfb7d</p>
-    <p>h2 = Merienda 22px Bold #fcfb7d</p>
-    <p>h3 = Merienda 20px Bold #fcfb7d</p>
-    <p>p = Merienda 18 px Bold #fcfb7d</p>
-  </li>
-</ul>
+
+    *h1 = Merienda 24px Bold #fcfb7d
+    +h2 = Merienda 22px Bold #fcfb7d
+    -h3 = Merienda 20px Bold #fcfb7d
+    +p = Merienda 18 px Bold #fcfb7d
+ 
 
 <p>menu = oswald 16px #fff</p>
 <p>footer = oswald 16px #fff</p>
