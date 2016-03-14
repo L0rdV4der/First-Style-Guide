@@ -1,9 +1,9 @@
 # First-Style-Guide
 <p>Attempt to make a style guide worth using. This is a work in progress.</P>
-<p><ul>Color Pallete<ul>
+<p><ul>Color Pallete
 <li>yellow #fcfb7d</li> 
 <li>crimson #dc143c</li>
-<li>text white #fff</li></P>
+<li>text white #fff</li></ul></P>
 <p><ul>font families<ul>
 <li>font-family: 'Merienda', cursive;</li>
 <li>@import url(https://fonts.googleapis.com/css?family=Merienda);</li>
