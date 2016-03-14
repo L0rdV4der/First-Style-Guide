@@ -13,10 +13,11 @@
 
 ###Html Elements
 
-    *h1 = Merienda 24px Bold #fcfb7d
-    +h2 = Merienda 22px Bold #fcfb7d
-    -h3 = Merienda 20px Bold #fcfb7d
-    +p = Merienda 18 px Bold #fcfb7d
+ <ul>h1 = Merienda 24px Bold 
+ <li>#fcfb7d
+ +h2 = Merienda 22px Bold #fcfb7d
+ -h3 = Merienda 20px Bold #fcfb7d
+ +p = Merienda 18 px Bold #fcfb7d</ul>
  
 
 <p>menu = oswald 16px #fff</p>
