@@ -3,7 +3,8 @@
 ###<ul>Color Pallete
 <li>yellow #fcfb7d</li> 
 <li>crimson #dc143c</li>
-<li>text white #fff</li></ul>
+<li>text white #fff</li>
+<li>Black #000</li></ul>
 
 ###<ul>font families
 <li>Font-family: 'Merienda', cursive;</li>
