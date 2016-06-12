@@ -1,6 +1,6 @@
 # First-Style-Guide
 <p>Attempt to make a style guide worth using. This is a work in progress.</P>
-###<ul>Color Pallete
+###<ul>Color Palette
 <li>yellow #fcfb7d</li> 
 <li>crimson #dc143c</li>
 <li>White #fff</li>
